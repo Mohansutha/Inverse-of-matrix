@@ -1,7 +1,7 @@
 # Inverse-of-matrix
 
 ## AIM:
-
+To write a python program to find the inverse of a nested array
 ## ALGORITHM:
 ### Step 1:
 import numpy module
@@ -37,3 +37,4 @@ print(inverse)
 ![output](1.png)
 
 ## RESULT:
+Thus the program to find the inverse of a nested array is verified and runs successfully
